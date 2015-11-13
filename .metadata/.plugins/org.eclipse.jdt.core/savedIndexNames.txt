@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\android\code\NightMode\.metadata\.plugins\org.eclipse.jdt.core
+3248830745.index
+688841583.index
+1251518193.index
